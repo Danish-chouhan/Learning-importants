@@ -16,4 +16,4 @@ calling.ageAndClass(17,"11th" + "<br>")
 class inher extends names{
 }
 const calling1 = new inher("Hamza-chouhan","Imran-chouhan")
-calling.ageAndClass(11,"2nd")
+calling.ageAndClass(11,"2nd" + "<br>")
